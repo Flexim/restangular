@@ -11,8 +11,8 @@ module.exports = function(config) {
 
     // list of files / patterns to load in the browser
     files: [
-      'https://ajax.googleapis.com/ajax/libs/angularjs/1.3.12/angular.js',
-      'https://ajax.googleapis.com/ajax/libs/angularjs/1.3.12/angular-mocks.js',
+      'http://ajax.googleapis.com/ajax/libs/angularjs/1.3.12/angular.js',
+      'http://ajax.googleapis.com/ajax/libs/angularjs/1.3.12/angular-mocks.js',
       'http://cdnjs.cloudflare.com/ajax/libs/lodash.js/3.3.0/lodash.js',
       'src/restangular.js',
       'test/*.js'
